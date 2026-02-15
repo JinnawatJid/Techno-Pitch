@@ -1,7 +1,7 @@
 # Research Findings & Strategic Recommendations
 
 ## 1. Executive Summary
-Our research confirms that **ShopDer is solving the right problem at the right time.** The market for second-hand fashion in Thailand is booming (22.8% CAGR), driven by Gen Z's desire for sustainability and uniqueness. However, current platforms (FB Marketplace, Kaidee, Instagram) are failing this demographic due to trust issues, poor discovery, and boring interfaces.
+Our research confirms that **ShopDer is solving the right problem at the right time.** The market for second-hand fashion in Thailand is booming (22.8% CAGR [1]), driven by Gen Z's desire for sustainability and uniqueness. However, current platforms (FB Marketplace, Kaidee, Instagram) are failing this demographic due to trust issues, poor discovery, and boring interfaces.
 
 ## 2. The "Beachhead" Market Recommendation
 We strongly recommend launching with **Gen Z Women's Fashion** as the initial beachhead market.
@@ -13,9 +13,9 @@ We strongly recommend launching with **Gen Z Women's Fashion** as the initial be
 ### Slide 2: The Problem
 **"Second-Hand Shopping feels like work, not fun."**
 *   **The Hunt is Hard:** On FB/Kaidee, you have to *search* for a needle in a haystack. There is no "feed" to inspire you.
-*   **The Trust Gap:** "Will I get scammed?" is the #1 fear.
+*   **The Trust Gap:** "Will I get scammed?" is the #1 fear [2].
 *   **The Boredom Factor:** Listing items is a chore. Buying items is a spreadsheet exercise.
-*   *Data Point:* 67% of Gen Z shop on impulse when they see something cool (Discovery Commerce), but current platforms are built for *Search Commerce* (Intent-based).
+*   *Data Point:* 67% of Gen Z shop on impulse when they see something cool (Discovery Commerce), but current platforms are built for *Search Commerce* (Intent-based) [3].
 
 ### Slide 3: Customer Segment
 **The "Eco-Conscious Trendsetter" (Gen Z, 18-28)**
@@ -33,3 +33,8 @@ We strongly recommend launching with **Gen Z Women's Fashion** as the initial be
 ## 4. Next Steps
 *   **Confirm:** Do you agree with focusing on **Women's Fashion** first?
 *   **Confirm:** Does the "Eco-Conscious Trendsetter" persona resonate with your team?
+
+## References
+[1] Mobility Foresights. (n.d.). *Thailand Second-hand Apparel (Thrift) Market Size and Forecasts 2031*. [Link](https://mobilityforesights.com/product/thailand-second-hand-apparel-thrift-market)
+[2] Reddit r/Thailand. (2023). *Got scammed Facebook market place what to do*. [Link](https://www.reddit.com/r/Thailand/comments/16gv0x2/got_scammed_facebook_market_place_what_to_do/)
+[3] eFulfillment Service. (2025). *How TikTok Shop Became A Serious Ecommerce Channel*. [Link](https://www.efulfillmentservice.com/2025/12/how-tiktok-shop-became-a-serious-ecommerce-channel-in-2025/)

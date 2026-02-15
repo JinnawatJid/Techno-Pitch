@@ -21,3 +21,8 @@
 *   **Timing is Perfect:** The market is at an inflection point (beginning of a 22.8% CAGR growth curve).
 *   **Target Audience:** Gen Z is the undeniable beachhead market. They have the money (2.6T baht), the motivation (sustainability + uniqueness), and the behavior (online first).
 *   **Problem to Solve:** Connecting the "Digital First" preference with the "Trust/Discovery" gap in current platforms.
+
+### Sources
+1.  **Mobility Foresights:** [Thailand Second-hand Apparel (Thrift) Market Size and Forecasts 2031](https://mobilityforesights.com/product/thailand-second-hand-apparel-thrift-market)
+2.  **ThredUp:** [2024 Resale Report](https://cf-assets-tup.thredup.com/resale_report/2024/ThredUp_2024_Resale%20Report.pdf)
+3.  **Nation Thailand:** [Gen Z and Gen X drive Thailand's 7.6 trillion baht purchasing power](https://www.nationthailand.com/business/economy/40056880)

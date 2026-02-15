@@ -25,3 +25,8 @@
 *   **Trust:** Unlike FB, we can have a "held payment" system (money only goes to seller when item arrives).
 *   **Discovery:** Unlike Kaidee, we show you things you didn't know you wanted (Swipe mechanic).
 *   **Centralization:** Unlike Instagram, we bring all the cool thrift shops into one feed.
+
+### Sources
+1.  **Reddit (r/Thailand):** [Got scammed Facebook market place what to do](https://www.reddit.com/r/Thailand/comments/16gv0x2/got_scammed_facebook_market_place_what_to_do/)
+2.  **App Store:** [Kaidee App Reviews & Features](https://apps.apple.com/id/app/kaidee-buy-sell-jobs-cars/id623734120)
+3.  **Medium:** [UX Storytelling Case Study: Designing a Thrift app for Instagram based Thrift Stores](https://medium.com/@kanishkshuklaa/ux-storytelling-case-study-designing-a-thrift-app-for-instagram-based-thrift-stores-20877b2d4de0)

@@ -19,3 +19,7 @@
 ### Implications for ShopDer
 *   **Validation:** The "Tinder for Shopping" model isn't just a gimmick; it aligns perfectly with how Gen Z *already* shops.
 *   **Differentiation:** We are not building another "Search Engine for products" (Kaidee). We are building an "Entertainment Engine for shopping."
+
+### Sources
+1.  **eFulfillment Service:** [How TikTok Shop Became A Serious Ecommerce Channel](https://www.efulfillmentservice.com/2025/12/how-tiktok-shop-became-a-serious-ecommerce-channel-in-2025/)
+2.  **Exploding Topics:** [Social Commerce and TikTok Shop Stats](https://explodingtopics.com/blog/social-commerce)
