@@ -1,91 +1,104 @@
-# ShopDer 5-Minute Pitch Script
+# ShopDer 5-Minute Pitch Script: The Green Living Lab
 
-**Goal:** Convince investors/partners that ShopDer is the future of sustainable fashion in Thailand.
+**Goal:** Persuade investors that ShopDer is the inevitable future of sustainable fashion.
 **Time:** 5 Minutes.
-**Tone:** Energetic, Problem-Solver, Visionary.
+**Tone:** Urgent, Innovative, playful yet serious about impact.
 
 ---
 
-### **[0:00 - 0:45] The Hook: The Hidden Cost of "Fast"**
-*(Display Slide 1: A massive pile of discarded clothes in a landfill)*
+### **[0:00 - 0:45] Slide 1 & 2: The Hook - The Hidden Cost of "Fast"**
+*(Display Slide 1: Title & Slide 2: The Problem - Mountains of Waste)*
 
 **Speaker:**
-"Good afternoon everyone. Did you know that the fashion industry is now the second-largest polluter in the world? Right now, as we speak, **92 million tonnes** of textile waste are being dumped into landfills every single year.
+"Good afternoon.
 
-This isn't just waste; it's a failure of imagination. We *know* we should reuse. We *know* we should be green. But why don't we?
+Did you know that right now, as we speak, **92 million tonnes** of textile waste are being dumped into landfills every single year? Fashion is now the **second-largest polluter on Earth**, responsible for **10% of global carbon emissions**.
 
-Because doing the right thing... is currently **boring, difficult, and risky**."
+We are drowning in clothes we don't wear. The average garment is worn **36% less often** today than just 15 years ago.
+
+The problem isn't that we don't *want* to be sustainable. The problem is that being sustainable is **hard, boring, and risky**."
 
 ---
 
-### **[0:45 - 1:30] The Problem: The "Friction" in Circular Economy**
-*(Display Slide 2: Screenshots of messy Facebook Marketplace posts and a confusing Kaidee search bar)*
+### **[0:45 - 1:30] Slide 2 & 3: The Friction - Why Current Solutions Fail**
+*(Display Slide 3: Screenshots of messy Facebook Marketplace & Kaidee)*
 
 **Speaker:**
-"Meet 'Ploy', a 22-year-old university student. Ploy wants to be sustainable. She wants to buy unique, pre-loved clothes instead of fast fashion.
+"Meet 'Ploy', a 22-year-old eco-conscious student. She wants to buy second-hand. But where does she go?
 
-But where does she go?
-*   **Facebook Marketplace?** It's the Wild West. Scams are rampant. She has to message 10 sellers just to get one reply.
-*   **Kaidee?** It feels like reading a newspaper classified. She has to *search* for a needle in a haystack. It's work, not fun.
-*   **Instagram?** She has to follow 50 different shops just to see a few items.
+*   **Facebook Marketplace?** It's the Wild West. Scams are everywhere. "Trust" is non-existent.
+*   **Kaidee?** It feels like reading a newspaper classified. She has to *search* for a needle in a haystack.
 
-Currently, saving the planet feels like a chore. And that is why Ploy goes back to Shein and buys a 100 baht t-shirt that falls apart in two washes."
+Currently, saving the planet feels like a chore. And that friction sends Ploy right back to Shein to buy a 100 baht t-shirt that falls apart in two washes."
 
 ---
 
-### **[1:30 - 2:30] The Solution: Making Green Addictive**
-*(Display Slide 4: A video demo of ShopDer - Swiping Right on a cool jacket)*
+### **[1:30 - 2:15] Slide 4 & 5: The Solution - Making Green Addictive**
+*(Display Slide 4: App Demo & Slide 5: UVP - Swipe Mechanics)*
 
 **Speaker:**
 "What if we could make buying second-hand as addictive as TikTok?
 
-Introducing **ShopDer** (ช็อปเด้อ). Think of it as **Shopee meets Tinder** for the Circular Economy.
+Introducing **ShopDer**. Think of it as **Shopee meets Tinder** for the Circular Economy.
 
 We turned 'Searching' into 'Discovery'.
 *   **Swipe Left** if it's not your style.
 *   **Swipe Right** if you love it. It goes straight to your basket.
-*   **Swipe Up** to see the video details.
+*   **Swipe Up** for video details.
 
-But here is the secret sauce: **The Green Living Lab**.
-Every item on ShopDer has a **Carbon Score**. When Ploy buys that jacket, she doesn't just get a jacket; she gets points on our 'Green Leaderboard'. She can show off to her friends that she saved 5kg of CO2 this month.
+But here is our secret sauce: **The Green Living Lab**.
+Every item on ShopDer has a **Carbon Score**. When Ploy swipes right on that vintage jacket, she doesn't just get a cool look; she gets points on our 'Green Leaderboard'. She can see she saved **5kg of CO2** this month.
 
 We made sustainability a game that you want to win."
 
 ---
 
-### **[2:30 - 3:30] Market & Traction: The "Gen Z" Opportunity**
-*(Display Slide 7: The 2x2 Matrix - Trust vs. Discovery)*
+### **[2:15 - 3:00] Slide 6 & 7: The Opportunity - Riding the Gen Z Wave**
+*(Display Slide 6: Unfair Advantage & Slide 7: Target User)*
 
 **Speaker:**
 "Is there a market for this? Absolutely.
 The second-hand fashion market in Thailand is projected to grow at **22.8% annually**, reaching nearly **$18 Billion by 2031**.
 
-Gen Z holds **2.6 Trillion Baht** in purchasing power, and 71% of them prefer to buy online. They are already buying from social feeds. We are just giving them a dedicated, safe platform to do it.
+Gen Z holds **2.6 Trillion Baht** in purchasing power. 71% of them prefer to buy online, and **67% shop on impulse**. They are already buying from social feeds. We are just giving them a dedicated, safe platform to do it.
 
-Unlike Facebook, we offer **Trust** (Held Payments).
-Unlike Kaidee, we offer **Discovery** (AI-driven Feed).
-We are the only player in the **High Trust + High Discovery** quadrant."
+Our beachhead is clear: The **Eco-Conscious Trendsetter**. She wants to be green, but she demands style and convenience."
 
 ---
 
-### **[3:30 - 4:15] Business Model: How We Scale**
-*(Display Slide 8: Revenue Streams)*
+### **[3:00 - 3:45] Slide 8 & 9: Positioning & Business Model**
+*(Display Slide 8: 2x2 Matrix & Slide 9: Revenue)*
 
 **Speaker:**
-"How do we make money?
-1.  **Commission:** A small transaction fee (5-10%) on every successful sale, paid by the seller for the safety and reach we provide.
-2.  **'Boost' Features:** Sellers can pay to have their items appear more frequently in the swipe deck.
-3.  **Green Data:** In the future, we provide brands with data on what Gen Z is *actually* reusing, helping them design better products."
+"Unlike Facebook, we offer **Trust** through held payments (Escrow).
+Unlike Kaidee, we offer **Discovery** through our AI-driven feed.
+We are the only player in the **High Trust + High Discovery** quadrant.
+
+**How do we make money?**
+1.  **Commission:** A small transaction fee (3-5%) on every successful sale.
+2.  **'Boost' Features:** Sellers pay to get more views in the swipe deck.
+3.  **Green Data:** In the future, we provide brands with insights on what Gen Z is *actually* reusing."
 
 ---
 
-### **[4:15 - 5:00] The Ask & Close**
-*(Display Slide 10: The Team & Contact Info)*
+### **[3:45 - 4:30] Slide 10: Go-to-Market Strategy**
+*(Display Slide 10: Channels)*
+
+**Speaker:**
+"How do we grow? We meet Gen Z where they are:
+1.  **Social Ads:** TikTok & Instagram Reels showing 'Thrift Flips'.
+2.  **Campus Ambassadors:** Recruiting 'Green Leaders' in universities to drive initial adoption.
+3.  **Influencer Partnerships:** Fashion haulers showing off their ShopDer finds."
+
+---
+
+### **[4:30 - 5:00] The Ask & Close**
+*(Display Slide 11: The Team & Ask)*
 
 **Speaker:**
 "We are currently in the concept phase, building our MVP to test with 1,000 university students in Bangkok next month.
 
-We are looking for [Partners/Seed Funding/Mentorship] to help us build the technology that will turn trash into treasure.
+We are looking for **partners and seed funding** to help us build the technology that turns trash into treasure.
 
 Don't just buy clothes. Join the **Green Living Lab**. Let's make saving the planet the coolest trend in Thailand.
 
