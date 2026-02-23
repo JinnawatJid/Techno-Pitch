@@ -75,9 +75,12 @@ Unlike Kaidee, we offer **Discovery** through our AI-driven feed.
 We are the only player in the **High Trust + High Discovery** quadrant.
 
 **How do we make money?**
-1.  **Commission:** A small transaction fee (3-5%) on every successful sale.
-2.  **'Boost' Features:** Sellers pay to get more views in the swipe deck.
-3.  **Green Data:** In the future, we provide brands with insights on what Gen Z is *actually* reusing."
+We use a **Tiered Membership Model** designed for growth:
+1.  **Seed:** Free for beginners.
+2.  **Sprout:** A monthly subscription for serious sellers to lower fees.
+3.  **Forest:** Our professional tier with **Zero Commission** and advanced analytics.
+
+As our sellers grow from seeds to forests, our recurring revenue grows with them."
 
 ---
 

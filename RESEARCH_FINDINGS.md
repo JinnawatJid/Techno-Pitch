@@ -64,9 +64,14 @@ This document organizes our research data to directly support the 10-slide ShopD
 
 ## Slide 9: Business Model (The Money)
 **"Sustainable Revenue for a Sustainable Mission."**
-1.  **Commission:** 3-5% on successful sales (Standard for marketplaces).
-2.  **Seller Subscriptions:** Premium features like "Boost" or "Verified Seller Badge."
-3.  **Green Data (Future):** Selling aggregated consumer preference data to brands to help them design better products.
+*(See detailed strategy in `BUSINESS_MODEL_STRATEGY.md`)*
+
+We use a **Tiered Membership Model** (Seed, Sprout, Forest) to align incentives with seller growth:
+1.  **Seed (Free):** Entry level, 5% commission.
+2.  **Sprout (Pro):** Monthly fee for reduced commission (3%) and 2x visibility.
+3.  **Forest (Power):** Professional tier for 0% commission, 5x visibility, and advanced analytics.
+
+**Green Data (Future):** Selling aggregated consumer preference data to brands to help them design better products.
 
 ## Slide 10: Channels (Go-to-Market)
 **"Meeting Gen Z Where They Are."**
