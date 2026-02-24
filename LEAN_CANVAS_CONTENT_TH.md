@@ -25,5 +25,5 @@
 *   **IG Vintage Shops:** ร้านขายเสื้อผ้ามือสองใน Instagram
 
 ### 5. REVENUE STREAMS (กระแสรายได้)
-*   **Subscription Fees:** ค่าสมาชิกรายเดือนจากร้านค้า (Gold/Platinum)
-*   **Transaction Fees:** ค่าธรรมเนียมการขายจากผู้ใช้งานทั่วไป (Standard)
+*   **Subscription Fees:** รายได้หลักจากค่าสมาชิกรายเดือน (Sprout/Forest)
+*   **Transaction Fees:** รายได้เสริมจากค่าธรรมเนียมการขายของผู้ใช้งานทั่วไป (Seed)
