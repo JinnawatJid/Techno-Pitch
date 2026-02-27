@@ -1,4 +1,4 @@
-# Shopder Final Presentation Script (Thai)
+จ# Shopder Final Presentation Script (Thai)
 **Format:** Word-for-word Speech (Startup/Simple/Direct Tone)
 **Time:** Approx. 4 Minutes
 **Language:** Thai
@@ -105,7 +105,7 @@
 
 ### Slide 11: Channels
 **(3:55 - 4:10)**
-"เราจะบุกตลาดผ่าน Social Media เป็นหลักครับ ทั้ง **TikTok, IG และ Facebook**
+"เราจะบุกตลาดผ่าน Social Media เป็นหลักครับ 
 
 โดยใช้ Influencer ทั้งสายไลฟ์สไตล์และสายรักษ์โลก มาช่วยรีวิวและทำให้เห็นว่า การใช้ Shopder มันเท่และช่วยโลกได้จริงครับ"
 
